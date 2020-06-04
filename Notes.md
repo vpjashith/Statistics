@@ -114,17 +114,47 @@ Types of study
 It can be used when the experiment has only two treatment conditions; and subjects can be grouped into pairs,
 based on some blocking variable. Then, within each pair, subjects are randomly assigned to different treatments.</p>
 
+## Sampling Methods and Bias with Surveys  
+<p align= "justify">One of the most common non-experimental method is the survey. The goal of a survey is to get specific information.
+Ideally, a survey should go to a random sample of the population that they’re interested in. For example, telephone surveys often use Random Digit Dialing which selects 7 random digits and dials them.</p>
 
+<p align= "justify">If people aren’t forced to respond to the survey, we might experience something called
+Non-Response Bias in which the people who are most likely to complete a survey are systematically different from those who don’t.
+This is also related to Voluntary ResponseBias in which people who choose to respond
+to voluntary surveys they see on Facebook or Twitter are people who again, are different than the broad population.</p>
 
+<p align= "justify">Another source of bias is just plain underrepresentation. If a group of interest is a minority in the
+population, random sampling paired with response biases might mean that that minority isn’t represented at all in the sample.</p>
 
+<p align= "justify">In a 2016 LA Times/USC political tracking poll, a 19-year-old black man was one of 3,000
+panelists who was interviewed week after week about the upcoming presidential election. Because he was a member of more than one group
+that was underrepresented in this poll, his response was weighted 30x more than the average respondent.</p>
 
+**Stratified Random Sampling**
+<p align= "justify">It splits the population into groups of interestand randomly selects people from each of the
+“stratas” so that each group in the overall sample is represented appropriately.</p>
 
+**Cluster Sampling**
+<p align= "justify">Create clusters that are naturally occuring and randomly select a few clusters to survey instead of randomly selecting individuals. For this to work, clusters cannot be systematically different than the population as a whole and they should about equally represent all groups.  </p>
 
+**Snowball Sampling**
+<p align= "justify">Issues can also arise when the population being surveyed is very small or difficult
+to reach, like children with rare genetic disorders, or people addicted to certain drugs.In this case, surveyors may choose to not
+use randomness at all, and instead use Snowball Sampling. That’s when current respondents are asked
+to help recruit people they know from the population of interest since people tend
+           to know others in their communities and can help researchers get more responses.</p>
 
+**Census**
+<p align= "justify">A Census is a survey that samples an ENTIRE population. it minimise sampling error.
+Analysis on Census data is usually more concerned with whether differences we see are large enough to make a difference in everyday life, rather than guessing IF there is a relationship.</p>
 
+## Science Journalism:
+When reading a science story it’s important to note a couple things: who wrote it, who published it, who did the science, and who
+funded the science. You should also consider who funded and completed the research the article is based on.
 
+Only experimental studies with randomized designs and control groups have a shot at showing evidence of causation.When a study reports correlations or has mice as its main population,the results it declares May not be quite fair So be careful about generalizations.
 
-
+- Henrietta Lacks - Hela cancer cells
 
 
 
