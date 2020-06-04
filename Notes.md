@@ -191,10 +191,10 @@ In its weak form, Law of Large Numbers tellsus that as our samples of data get b
 and bigger, our sample mean will be ‘arbitrarily’ close to the true population mean.The neat thing is that the Law of Large numbers
 applies to almost any distribution as long as the distribution doesn’t have an infinite variance.
 
-## Distributions  
+## Distributions  https://wikimedia.org/api/rest_v1/media/math/render/svg/40884cf5b9cb88d739d9b8f40156482737734de8
 
-**Binomial**
+**Binomial**  
 The binomial is a type of distribution that has two possible outcomes (the prefix “bi” means two, or twice). For example, a coin toss has only two possible outcomes: heads or tails and taking a test could have two possible outcomes: pass or fail. A Binomial Distribution shows either (S)uccess or (F)ailure.
 
-$\sqrt{k}$
+
 
