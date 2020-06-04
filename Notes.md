@@ -156,7 +156,45 @@ Only experimental studies with randomized designs and control groups have a shot
 
 - Henrietta Lacks - Hela cancer cells
 
+## Probability
+Statisticians talk about two types of probability: empirical, and theoretical.
+- Empirical probability is something we observe nin actual data, like the ratio of girls in each individual family.It has some uncertainty, because like the samples in experiments, it’s just a small amount of the data that is available.
+-The theoretical probability on the other hand, is more of an ideal or a truth out there in the universe that we can’t directly see.  
 
+So, the empirical probability can be a good estimation of the theoretical one, even if it’s not exact.
 
+Instead of writing out “the probability of Red” we can use the notation P(Red).
+The probability of getting a red OR purple would then be written P(Red or Purple).
 
+**Independent event**  
+Two events are considered independent if the probability of one event occurring is not
+changed by whether or not the second event occurred.
+
+**Conditional Probability**  
+Conditional Probability says that the probability of an event, B, given that event A has already happened, is
+the probability of A and B happening together, Divided by the probability of A happening
+
+**Bayers Theorem**  
+The probability of B given A, is equal to the Probability of A given B times the Probability of B all divided by the Probability of A  
+
+[![bayeslaweq11](http://saush.files.wordpress.com/2009/02/bayeslaweq11.png?w=210)](http://blog.saush.com/2009/02/11/naive-bayesian-classifiers-and-ruby/bayeslaweq11/)
+
+Given our usage, what we want is:
+
+[![bayeslaweq2-300x29](http://saush.files.wordpress.com/2009/02/bayeslaweq2-300x29.png)](http://blog.saush.com/2009/02/11/naive-bayesian-classifiers-and-ruby/bayeslaweq2-300x29/)
+
+**Simulations**  
+Simulations take rules and create a pretend universe that follows those rules.  
+
+**Law of Large Numbers**  
+In its weak form, Law of Large Numbers tellsus that as our samples of data get bigger
+and bigger, our sample mean will be ‘arbitrarily’ close to the true population mean.The neat thing is that the Law of Large numbers
+applies to almost any distribution as long as the distribution doesn’t have an infinite variance.
+
+## Distributions  
+
+**Binomial**
+The binomial is a type of distribution that has two possible outcomes (the prefix “bi” means two, or twice). For example, a coin toss has only two possible outcomes: heads or tails and taking a test could have two possible outcomes: pass or fail. A Binomial Distribution shows either (S)uccess or (F)ailure.
+
+$P(A) = \sum P(\{ (e_1,\dotsc,e_N) \})  =  \binom{N}{k} \cdot p^kq^{N-k}$
 
