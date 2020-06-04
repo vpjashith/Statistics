@@ -196,5 +196,5 @@ applies to almost any distribution as long as the distribution doesn’t have an
 **Binomial**
 The binomial is a type of distribution that has two possible outcomes (the prefix “bi” means two, or twice). For example, a coin toss has only two possible outcomes: heads or tails and taking a test could have two possible outcomes: pass or fail. A Binomial Distribution shows either (S)uccess or (F)ailure.
 
-$P(A) = \sum P(\{ (e_1,\dotsc,e_N) \})  =  \binom{N}{k} \cdot p^kq^{N-k}$
+$\sqrt{k}$
 
