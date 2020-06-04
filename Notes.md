@@ -1,14 +1,15 @@
 **Statistics**  
 Statistics is defined as the study and practice of collecting and analyzing data or it is facts or summaries of data.
-  
+
 **Proxy**  
-Something that is related to what we want to measure, but isn’t exactly what we want to measure.  
-  
-There are two main statistics types: Descriptive and Inferential.  
-* <p align = "justify">Descriptive statistics usually include things like where the middle of the data is what statisticians call measures of central tendency and measures of how spread out the data are.While descriptive statistics can be great, they only tell us the basics. Inferential statistics allows us to make inferences.  </p>
-  
-* <p align = "justify">Inferential statistics allow us to make conclusions that extend beyond the data we have in hand.  We ask inferential statistics 
-to do all sorts of much more complicated work for us. Inferential statistics let us test an idea or a hypothesis.  </p>
+Something that is related to what we want to measure, but isn’t exactly what we want to measure.
+
+There are two main statistics types: Descriptive and Inferential.
+
+- <p align = "justify">Descriptive statistics usually include things like where the middle of the data is what statisticians call measures of central tendency and measures of how spread out the data are.While descriptive statistics can be great, they only tell us the basics. Inferential statistics allows us to make inferences.  </p>
+
+- <p align = "justify">Inferential statistics allow us to make conclusions that extend beyond the data we have in hand.  We ask inferential statistics 
+  to do all sorts of much more complicated work for us. Inferential statistics let us test an idea or a hypothesis.  </p>
 
 <p align = "justify">If Statistics were a superhero, it’s bat call would be uncertainty, and it’s tagline would be “When you don’t know for sure,
 but doing nothing isn’t an option.” Thinking mathematically isn’t just about understanding numbers better. It’s about asking important
@@ -16,20 +17,20 @@ questions about the world around us. And letting numbers illuminate those questi
   
 **Mean**  
 The mean or average takes the sum of all the numbers in a data set, and divides by the number of data points. 
-The average of a set of data points tells us something about the data as a whole, but it doesn’t tell us about individual data points.  
+The average of a set of data points tells us something about the data as a whole, but it doesn’t tell us about individual data points.
 
-The mean is good at measuring things that are relatively “normally” distributed. “Normal” means a distribution of data that has roughly 
-the same amount of data on either side of the middle, and has its most common values around the middle of the data. Data that are 
+The mean is good at measuring things that are relatively “normally” distributed. “Normal” means a distribution of data that has roughly
+the same amount of data on either side of the middle, and has its most common values around the middle of the data. Data that are
 istributed normally will have
-a symmetrical bell shape. A distribution shows us how often each value occurs in our data set, which is also known as their frequency.  
+a symmetrical bell shape. A distribution shows us how often each value occurs in our data set, which is also known as their frequency.
 
 **Median**  
 To give unusually large or small values, also called outliers, less influence on our measure of where the center of our data is, we can use the median.
 The median is the middle number if we lined up our data from smallest to largest.
 
 **Mode**  
-The word mode comes from the Latin word modus, which means “manner, fashion, or style” and gives us the French expression a la mode, 
-meaning fashionable.  
+The word mode comes from the Latin word modus, which means “manner, fashion, or style” and gives us the French expression a la mode,
+meaning fashionable.
 
 <p align = "justify">Bimodal data is an example of “Multimodal” data which has many values that are similarly common. Usually multimodal data results
 from two or more underlying groups all being measured together.When the median and mean are different, a distribution is skewed, which is a way of saying that there are some 
@@ -44,9 +45,10 @@ We divide by the number of samples minus 1 in order to get the sample variance t
 guess for the population variance. The <b>Standard Deviation</b> is the square root of the variance, which gives back the units. 
 You can think of the standard deviation as the average amount we expect a point to differ (or deviate) from the mean.  </p>
 
-There are two main types of data that we might encounter: 
-* Categorical
-* Quantitative.  
+There are two main types of data that we might encounter:
+
+- Categorical
+- Quantitative.
 
 <p align = "justify">Quantitative data are quantities, numbers that have both order and consistent spacing.
 Categorical data doesn’t have a meaningful order or consistent spacing.We just have to create 
@@ -60,14 +62,14 @@ The bars are squished together because the data are ‘continuous’ which means
 there’s no separation like in our categorical bar charts.
 
 **Stem and leaf plot**  
-A stem and leaf plot is a cousin of the dotplot. It also gives us information about data 
+A stem and leaf plot is a cousin of the dotplot. It also gives us information about data
 and their frequencies by stacking objects on top of each other. However, stem and leaf plots use values from
-the raw data instead of dots.  
+the raw data instead of dots.
 
 **Correlation**  
-Correlation measures the way two variables move together, both the direction and closeness of their movement. 
-You may have read articles claim that there’s a positive correlation between exercise and heart health.  
- 
+Correlation measures the way two variables move together, both the direction and closeness of their movement.
+You may have read articles claim that there’s a positive correlation between exercise and heart health.
+
 <p align = "justify">When we see a non-zero slope also called a regression coefficient it’s a sign that there’s some kind of 
 relationship between our two variables.The units of your variables can affect the regression coefficient, 
 and can also affect the calculation of our correlation. To get around that, we use the standard deviations to scale 
@@ -75,23 +77,25 @@ our correlation so that it is always between -1 and 1. This is our correlation c
 closer to a correlation of 0, the points are more and more spread out around our regression line, and eventually
 at 0, there’s no linear relationship at all, it’s just dots. </p>
 
-**Squared correlation coefficient**  
+**Squared correlation coefficient**
+
 <p align="justify">R^2 is always between 0 and 1, and tells us in decimal form how much of the variance in one variable is predicted by the other. 
 In other words, it tells us how well we can predict one variable if we know the other. An R^2 of 1 means you can perfectly predict
 one variable from the other since 100% of the variation is in one variable.</p>
 
 **Correlation doesn’t equal causation**  
-When one thing (A) is correlated with another (B), there’s a few possible reasons  
-* A causes B  
-* B causes A  
-* There’s a third Variable C that causes both A and B, even though A and B aren’t related  
-* Or there’s no relationship at all. it’s just a coincidence. These correlations get called spurious correlations,
-and they can be hard to catch.
+When one thing (A) is correlated with another (B), there’s a few possible reasons
 
-## Controlled Experiments  
+- A causes B
+- B causes A
+- There’s a third Variable C that causes both A and B, even though A and B aren’t related
+- Or there’s no relationship at all. it’s just a coincidence. These correlations get called spurious correlations,
+  and they can be hard to catch.
+
+## Controlled Experiments
 
 Researchers have started using simulationsto study cancer treatments.To predict the impacts of climate change.
-Researchers are using VR to simulate disaster situations. And to help train people how to respond in earthquakes or floods.  
+Researchers are using VR to simulate disaster situations. And to help train people how to respond in earthquakes or floods.
 
 <p align="justify">Experiments try to mimic parallel universes by taking the one universe we do have, and splitting it randomly into groups.
 Randomness allows us to claim that before the cappuccino makers were given out, there were no systematic differences between the
@@ -105,16 +109,19 @@ by “pretending” to treat everyone. Subjects in medical studies are often giv
 like both groups are being treated. This is why we use control group, a group that get fake treatment. </p>
 
 Types of study
-* Blid Study - When subjects don’t know which treatment they’re receiving
-  * Single Blind Study - Subjects don’t know what treatment they’re getting but the researchers do
-  * Double Blind Study - Neither subjects nor researchers don't know what treatment the subjects are getting.
 
-**Matched-Pairs Experiment**   
+- Blid Study - When subjects don’t know which treatment they’re receiving
+  - Single Blind Study - Subjects don’t know what treatment they’re getting but the researchers do
+  - Double Blind Study - Neither subjects nor researchers don't know what treatment the subjects are getting.
+
+**Matched-Pairs Experiment**
+
 <p align="justify">A matched pairs design is a special case of a randomized block design. 
 It can be used when the experiment has only two treatment conditions; and subjects can be grouped into pairs,
 based on some blocking variable. Then, within each pair, subjects are randomly assigned to different treatments.</p>
 
-## Sampling Methods and Bias with Surveys  
+## Sampling Methods and Bias with Surveys
+
 <p align= "justify">One of the most common non-experimental method is the survey. The goal of a survey is to get specific information.
 Ideally, a survey should go to a random sample of the population that they’re interested in. For example, telephone surveys often use Random Digit Dialing which selects 7 random digits and dials them.</p>
 
@@ -131,13 +138,16 @@ panelists who was interviewed week after week about the upcoming presidential el
 that was underrepresented in this poll, his response was weighted 30x more than the average respondent.</p>
 
 **Stratified Random Sampling**
+
 <p align= "justify">It splits the population into groups of interestand randomly selects people from each of the
 “stratas” so that each group in the overall sample is represented appropriately.</p>
 
 **Cluster Sampling**
+
 <p align= "justify">Create clusters that are naturally occuring and randomly select a few clusters to survey instead of randomly selecting individuals. For this to work, clusters cannot be systematically different than the population as a whole and they should about equally represent all groups.  </p>
 
 **Snowball Sampling**
+
 <p align= "justify">Issues can also arise when the population being surveyed is very small or difficult
 to reach, like children with rare genetic disorders, or people addicted to certain drugs.In this case, surveyors may choose to not
 use randomness at all, and instead use Snowball Sampling. That’s when current respondents are asked
@@ -145,10 +155,12 @@ to help recruit people they know from the population of interest since people te
            to know others in their communities and can help researchers get more responses.</p>
 
 **Census**
+
 <p align= "justify">A Census is a survey that samples an ENTIRE population. it minimise sampling error.
 Analysis on Census data is usually more concerned with whether differences we see are large enough to make a difference in everyday life, rather than guessing IF there is a relationship.</p>
 
 ## Science Journalism:
+
 When reading a science story it’s important to note a couple things: who wrote it, who published it, who did the science, and who
 funded the science. You should also consider who funded and completed the research the article is based on.
 
@@ -157,9 +169,11 @@ Only experimental studies with randomized designs and control groups have a shot
 - Henrietta Lacks - Hela cancer cells
 
 ## Probability
+
 Statisticians talk about two types of probability: empirical, and theoretical.
+
 - Empirical probability is something we observe nin actual data, like the ratio of girls in each individual family.It has some uncertainty, because like the samples in experiments, it’s just a small amount of the data that is available.
--The theoretical probability on the other hand, is more of an ideal or a truth out there in the universe that we can’t directly see.  
+  -The theoretical probability on the other hand, is more of an ideal or a truth out there in the universe that we can’t directly see.
 
 So, the empirical probability can be a good estimation of the theoretical one, even if it’s not exact.
 
@@ -175,7 +189,7 @@ Conditional Probability says that the probability of an event, B, given that eve
 the probability of A and B happening together, Divided by the probability of A happening
 
 **Bayers Theorem**  
-The probability of B given A, is equal to the Probability of A given B times the Probability of B all divided by the Probability of A  
+The probability of B given A, is equal to the Probability of A given B times the Probability of B all divided by the Probability of A
 
 [![bayeslaweq11](http://saush.files.wordpress.com/2009/02/bayeslaweq11.png?w=210)](http://blog.saush.com/2009/02/11/naive-bayesian-classifiers-and-ruby/bayeslaweq11/)
 
@@ -184,17 +198,16 @@ Given our usage, what we want is:
 [![bayeslaweq2-300x29](http://saush.files.wordpress.com/2009/02/bayeslaweq2-300x29.png)](http://blog.saush.com/2009/02/11/naive-bayesian-classifiers-and-ruby/bayeslaweq2-300x29/)
 
 **Simulations**  
-Simulations take rules and create a pretend universe that follows those rules.  
+Simulations take rules and create a pretend universe that follows those rules.
 
 **Law of Large Numbers**  
 In its weak form, Law of Large Numbers tellsus that as our samples of data get bigger
 and bigger, our sample mean will be ‘arbitrarily’ close to the true population mean.The neat thing is that the Law of Large numbers
 applies to almost any distribution as long as the distribution doesn’t have an infinite variance.
 
-## Distributions 
+## Distributions
 
 **Binomial**  
 The binomial is a type of distribution that has two possible outcomes (the prefix “bi” means two, or twice). For example, a coin toss has only two possible outcomes: heads or tails and taking a test could have two possible outcomes: pass or fail. A Binomial Distribution shows either (S)uccess or (F)ailure.
 
-
-
+<img src="Images/Binomial">
