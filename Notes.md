@@ -226,7 +226,7 @@ Geometric probabilities tell you the probability that your first success will be
 In a more general form, The Geometric Probability Formula says that the probability of the nth try being your first success, is the probability of failure to the n-1 power, times the probability
 of success to the first power.
 
-<img src="Images/Geometric.jpg">
+<img src="Images/Geometric.JPG"  width=170>
 
 As n increases, the probability of that being
 your first success gets incredibly low
@@ -275,10 +275,9 @@ our purposes
 <p align= "justify"><b>Skewness is the third moment. </B>
 Skewness tells us whether there are more extreme values on one side, like income or amount
 won in Vegas which are both right skewed.
-Skewness tells us whether there are more extreme values on one side, like income or amount
-won in Vegas which are both right skewed.
-
-<img src="Images/skew.jpg">
+Skewness tells us whether there are more extreme values on one side, like income or amount won in Vegas which are both right skewed.
+<BR>
+<img src="Images/skew.JPG">
 
 Just like the variance tells us how reliable
 the mean is, skewness can tell us how reliable
@@ -291,7 +290,7 @@ Kurtosis is the Expectation of the mean centered data to the fourth power.
 And it’s a measure of how thick the tails
 on a distribution are.</p>
 
-<img src="Images/kurtosis.jpg">
+<img src="Images/kurtosis.JPG">
 
 “The mean of the sum is the sum of the means”.
 Similarly the variance of the sum of two independent variables is the sum of their variances.
@@ -352,7 +351,7 @@ to adjust the original population standard
 deviation somehow to reflect this. The way we do it mathematically is to divide
 by the square root of n--our sample size.</p>
 
-<img src="Images/normal.jpg" width=500>
+<img src="Images/normal.JPG" width=500>
 
 We call The standard deviation of a sampling distribution the standard error so that we
 don’t get it confused with the population
@@ -457,14 +456,14 @@ we get to choose exactly how often we are
 willing to make Type 1 errors when we choose our alpha.
 
 type 2 error
-<img src="Images/type 2 error.png">  
+<img src="Images/type 2 error.PNG">  
 Just like the rate of Type I errors is equal
 to alpha, the rate of type II errors is equal to Beta.
 
 And Type II errors are False negatives: there was an effect, we just didn’t see it.
 And while both of these mean we were wrong, there’s a lot of times where we may prefer
 
-<img src="Images/posi.png">
+<img src="Images/posi.PNG">
 
 This proportion (1-Beta) is called our statistical power. **Statistical power** tells us our chance of detecting an effect if there is one.
 
@@ -478,4 +477,4 @@ We start with some idea or belief about how something works.
 **Bayes’ Factor**
 It represents the amount of information that we’ve learned about our hypotheses from the data.
 
-<img src="Images/bfac.png">
+<img src="Images/bfac.PNG">
