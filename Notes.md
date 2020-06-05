@@ -226,7 +226,7 @@ Geometric probabilities tell you the probability that your first success will be
 In a more general form, The Geometric Probability Formula says that the probability of the nth try being your first success, is the probability of failure to the n-1 power, times the probability
 of success to the first power.
 
-<img src="Images/Geometric.jpg"  width=170>
+<img src="Images/Geometric.jpg">
 
 As n increases, the probability of that being
 your first success gets incredibly low
